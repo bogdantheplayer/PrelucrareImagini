@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+opencv-python
+numpy
+python-multipart
+
+# In console separate se adauga
+## Backend
+### cd backend
+### .venv\Scripts\activate
+### uvicorn server:app --reload
+## Frontend
+### npm start
+
+
+
+# Tema 3
