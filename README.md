@@ -19,11 +19,7 @@ The application provides a modern, responsive interface where users can:
 - Remove individual result cards or clear the entire workspace
 - View processing status and error notifications
 
-> Screenshots can be added here using:
->
-> ```html
-> <img width="1200" alt="Project Filters interface" src="SCREENSHOT_URL" />
-> ```
+<img width="1919" alt="ui" src="https://github.com/user-attachments/assets/b6c9c93e-8a28-4558-b8e3-f1b0c9b4ef1a" />
 
 ---
 
