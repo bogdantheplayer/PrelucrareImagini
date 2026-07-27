@@ -372,8 +372,4 @@ This project demonstrates:
 - Add automated backend and frontend tests
 - Replace unrestricted CORS with a narrower local configuration
 
----
 
-## License
-
-This project is intended for educational use. Add the appropriate license before public distribution.
